@@ -8,7 +8,7 @@ Deployed on Render.
 
 ## 🚀 Live API
 
-🔗 Base URL: https://backend.onrender.com  
+🔗 Base URL: https://social-media-schedular-backend.onrender.com/  
 
 ---
 
