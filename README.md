@@ -92,8 +92,8 @@ It contains all table definitions, enum types, and constraints needed to set up 
 ### Clone Repository
 
 ```bash
-git clone <repo link>
-cd repo
+git clone https://github.com/Mahalaxmi-Komuravelly/social-media-schedular-backend
+cd social-media-schedular-backend
 ```
 
 ### Install Dependencies
