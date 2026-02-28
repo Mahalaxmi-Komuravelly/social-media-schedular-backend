@@ -17,7 +17,8 @@ app.use(cors({
         "http://localhost:5173",
         "https://social-media-schedular-frontend.vercel.app",
         "https://social-media-scheduler-dashboard.netlify.app"
-    ]
+    ],
+    credentials: true,
 }
 ));
 
