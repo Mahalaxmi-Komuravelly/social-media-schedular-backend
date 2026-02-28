@@ -6,9 +6,10 @@ Deployed on Render.
 
 ---
 
-## 🚀 Live API
+## 🚀 Live Demo
 
-🔗 Base URL: https://social-media-schedular-backend.onrender.com/  
+🌐 Frontend: [Netlify Frontend](https://social-media-schedular-netlify.netlify.app/)  
+🔗 Backend API: https://social-media-schedular-backend.onrender.com/  
 
 ---
 
