@@ -156,7 +156,7 @@ npm start
 | `/posts`     | GET, POST, PUT, DELETE | Manage social media posts         |
 | `/campaigns` | GET, POST, PUT, DELETE | Manage campaigns                  |
 | `/analytics` | GET                    | Get analytics for posts/campaigns |
-| `/users`     | GET, PUT, DELETE       | Manage users                      |
+| `/users`     | GET, PUT               | Manage users                      |
 
 📝 Scripts
 
